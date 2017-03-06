@@ -1,0 +1,6 @@
+framework module ABLEShareSdk {
+  umbrella header "ABLEShareSdk.h"
+
+  export *
+  module * { export * }
+}
